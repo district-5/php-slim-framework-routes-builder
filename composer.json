@@ -3,7 +3,7 @@
   "description": "Read and generate a routing file based on the directories containing them.",
   "keywords": ["slim", "framework", "routes", "routing", "file"],
   "homepage": "https://github.com/district-5/php-slim-framework-routes-builder",
-  "license": "Proprietary",
+  "license": "proprietary",
   "authors": [
     {
       "name": "District5",
