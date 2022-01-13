@@ -1,0 +1,21 @@
+{
+  "name": "district5/php-slim-framework-routes-builder",
+  "description": "Read and generate a routing file based on the directories containing them.",
+  "keywords": ["slim", "framework", "routes", "routing", "file"],
+  "homepage": "https://github.com/district-5/php-slim-framework-routes-builder",
+  "license": "Proprietary",
+  "authors": [
+    {
+      "name": "District5",
+      "email": "hello@district5.co.uk"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "District5\\SlimRouteFileBuilder\\": "src/SlimRouteFileBuilder/"
+    }
+  }
+}
